@@ -1,0 +1,2 @@
+#!/bin/bash
+set_env_var "BUNDLE_BUILD__CHARLOCK_HOLMES" "--with-icu-dir=\"$BUILD_DIR/.apt/usr\""
